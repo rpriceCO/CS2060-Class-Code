@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\examples",
+    "\\examples\\ch06",
+    "\\examples\\Homework"
   ],
-  "SelectedNode": "\\C:\\Dev\\repos",
+  "SelectedNode": "\\examples\\ch06\\fig06_16.c",
   "PreviewInSolutionExplorer": false
 }
